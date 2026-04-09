@@ -31,7 +31,6 @@ The model was evaluated on a massive unseen dataset (**22,881 samples**).
 
 ## 📁 Repository Structure
 * `Mental_Health_Sentiment_Analysis.ipynb`: The complete end-to-end Python codebase (EDA, Preprocessing, Training, Evaluation).
-* `Project_Presentation.pdf`: The official presentation slides detailing the clinical context, architecture, and roadmap.
 * `requirements.txt`: List of dependencies required to run the pipeline.
 
 ## 🔗 Dataset
